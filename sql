@@ -1,0 +1,1 @@
+/home/oracle/sqlcl/bin/sql
